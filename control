@@ -1,5 +1,5 @@
-Package: com.nosskirneh.spotify
-Name: spotify
+Package: com.nosskirneh.cdc
+Name: SpotifyCancelDoesCancel
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
