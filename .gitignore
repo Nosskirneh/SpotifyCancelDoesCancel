@@ -22,6 +22,7 @@ xcuserdata/
 *.xcuserstate
 .DS_Store
 .theos/
+packages/
 
 ## Obj-C/Swift specific
 *.hmap
