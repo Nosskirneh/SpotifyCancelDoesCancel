@@ -1,9 +1,9 @@
 Package: com.nosskirneh.cdc
 Name: SpotifyCancelDoesCancel
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: When a playlist already consist a song you're trying to add, this will dismiss the "Add to playlist" view.
+Description: Cancel automatically closes "Add to playlist" view
 Maintainer: Andreas Henriksson
 Author: Andreas Henriksson
 Section: Tweaks
