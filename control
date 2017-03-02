@@ -1,9 +1,10 @@
 Package: com.nosskirneh.cdc
 Name: SpotifyCancelDoesCancel
-Depends: mobilesubstrate
 Version: 1.0
-Architecture: iphoneos-arm
 Description: Cancel automatically closes "Add to playlist" view
+Depiction: https://andreashenriksson.se/repo/depictions/?p=se.nosskirneh.cdc
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000)
 Maintainer: Andreas Henriksson
 Author: Andreas Henriksson
 Section: Tweaks
